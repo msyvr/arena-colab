@@ -1,3 +1,5 @@
+# reviewing arena.education materials as a refresher
+
 ## Prereqs: Einops
 
 nb einops.reduce pools according to alg (here, 'max'), with the pool determined by a scalar along each dimension. Each dimension's scale factor needs to divide evenly into the dimension, and they can all be different.
